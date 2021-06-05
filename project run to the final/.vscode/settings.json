@@ -1,0 +1,8 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.console.closeOnEnd": true,
+    "editor.fontSize": 16,
+    "files.associations": {
+        "SIGINT.C": "cpp"
+    }
+}
